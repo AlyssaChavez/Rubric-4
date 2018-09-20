@@ -1,0 +1,96 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	height: 100%;
+	background-color: white;
+	font-family: "NOTE - ADD FONT";
+	margin-right: 30px;
+	
+	
+}
+
+.head {
+	height: 100%; 
+    background-position: center;
+}
+
+#container {
+	max-width: 2500px;
+	margin: 0;
+	padding: 0;
+	
+}
+
+header {
+	background-color: deeppink;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+	position: top;
+	text-align: center;
+	font-size: 25px;
+	
+	
+}
+h1 {
+	height: 50px;
+	
+	color: deeppink;
+	padding: 5px;
+	padding-top: 15px;
+	margin: 0;
+	font-size: 1.5em;
+	text-align: center;
+}
+
+h2 {
+	height: 40px;
+	
+	color: deeppink;
+	padding: 5px;
+	padding-top: 15px;
+	margin: 0;
+	font-size: 1em;
+}
+
+.nav {
+    background-color: clear; 
+    list-style-type: none;
+    text-align: center; 
+    padding: 0;
+    margin: 0;
+}
+
+.nav li {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+
+#footer {
+	color: white;
+	position:inherit;
+	bottom: 0;
+	width: 100%;
+	height: 80px;
+	background:rgba(0,0,0,.7);
+	background-color: deeppink;
+	text-align: center; 
+    padding: 0;
+    margin: 0;
+}
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
